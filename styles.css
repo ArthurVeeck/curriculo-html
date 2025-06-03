@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+
+h1{
+    color: #ffffff;
+}
+
+h2{
+    color: #ffffff;
+}
+
+p{
+    color: #ffffff;
+}
+img{
+    display: flex;
+    margin: -20px 470px;
+}
